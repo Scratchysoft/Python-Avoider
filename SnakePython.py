@@ -35,6 +35,9 @@ def right():
 #runs the game
 print("Deadly Pythons")
 print("Python = S You = ~")
+print("Controls: up, down, left, or right and if you want to leave use s")
+print('Created By: Kart Krafter')
+print('Published By: Scratchysoft')
 user = raw_input('Do You Want To Play y/n: ')
 while True:
 	if (user == "y"):
